@@ -1,4 +1,4 @@
 ## Manuales de GitHub:
 
-- [GitHub Fork.](md/GitFork&pull.md)
+- [GitHub Fork & Pull Request.](md/GitFork&pull.md)
 
