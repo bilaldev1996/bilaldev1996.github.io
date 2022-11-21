@@ -1,4 +1,4 @@
-## Fork && Pull Request en github
+## Fork & Pull Request en github
 
 El "fork" es una de las operativas comunes con el trabajo en Git y GitHub. Básicamente sirve para crear una copia de un repositorio en tu cuenta de usuario <br>
 Buscamos en github el repositorio que queramos bifurcar y le damos a fork<br>
